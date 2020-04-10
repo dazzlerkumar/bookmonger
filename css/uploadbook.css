@@ -1,0 +1,16 @@
+form{
+    max-width:360px;
+    margin: auto;
+    
+}
+option{
+    border-radius: 25px;
+}
+form input[type="text"],form input[type="file"],form input[type="number"]{
+    border-radius: 25px;
+}
+form input[type="file"]{
+    padding: 2px;
+    padding-left: 10px;
+    
+}
